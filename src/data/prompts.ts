@@ -92,7 +92,7 @@ export const ALL_PROMPTS: Prompt[] = [
   // ── PENCIL DRAWING ──────────────────────────────────────────────────────
   {
     id: 'prompt-001',
-    text: 'black and white pencil drawing, Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien Hände flac[...]
+    text: 'black and white pencil drawing, Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien Hände flach am Boden, Füße fest auf dem Boden, Körper Bauch nach unten, Rücken hoch nach oben gekrümmt Pose, black and white, breathtaking pencil illustration, highly detailed, 4k, textured paper, pencil texture, sketch',
     styleCategory: 'pencil-drawing',
     styleCategoryLabel: 'Pencil Drawing',
     badgeClass: 'badge-pencil-drawing',
@@ -102,7 +102,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-002',
-    text: 'black and white pencil drawing, A plus-size nude woman sitting on a crumpled green patterned velvet fabric against a pure black studio background, holding a large open white umbrella over h[...]
+    text: 'black and white pencil drawing, A plus-size nude woman sitting on a crumpled green patterned velvet fabric against a pure black studio background, holding a large open white umbrella over her head with one hand, the other hand resting on her thigh. Soft brown shoulder-length hair, neutral calm expression looking at the camera. Voluptuous body with large natural breasts, soft folds on belly, hips and thighs, pale fair skin with realistic texture and subtle shadows. Soft dramatic studio lighting from above-front, high detail, fine pencil art, professional nude photography, 85mm lens, shallow depth of field --ar 2:3 --stylize 250 --v 6, black and white, breathtaking pencil illustration, highly detailed, 4k, textured paper, pencil texture, sketch',
     styleCategory: 'pencil-drawing',
     styleCategoryLabel: 'Pencil Drawing',
     badgeClass: 'badge-pencil-drawing',
@@ -112,7 +112,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-003',
-    text: 'black and white pencil drawing, A voluptuous nude woman with large natural breasts lying on the ground in an autumn forest, one hand in her long wavy blonde-brown hair, the other supporting[...]
+    text: 'black and white pencil drawing, A voluptuous nude woman with large natural breasts lying on the ground in an autumn forest, one hand in her long wavy blonde-brown hair, the other supporting her body, looking to the side with a calm expression, surrounded by yellow and brown fallen leaves, tall grass and a mossy fallen log, partially on a plaid blanket, soft natural daylight, warm autumn colors, realistic skin texture, photorealistic outdoor photography, high detail --ar 2:3, black and white, breathtaking pencil illustration, highly detailed, 4k, textured paper, pencil texture, sketch',
     styleCategory: 'pencil-drawing',
     styleCategoryLabel: 'Pencil Drawing',
     badgeClass: 'badge-pencil-drawing',
@@ -122,7 +122,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-004',
-    text: 'black and white pencil drawing, A highly detailed portrait of a beautiful voluptuous woman in her mid-20s, extremely curvy soft BBW body, massive heavy natural breasts with large areolas an[...]
+    text: 'black and white pencil drawing, A highly detailed portrait of a beautiful voluptuous woman in her mid-20s, extremely curvy soft BBW body, massive heavy natural breasts with large areolas and prominent nipples, soft rounded belly with natural pooch, wide full hips, thick thighs, pale smooth skin, shoulder-length wavy dark brown hair, symmetrical attractive face with big expressive light hazel eyes, full lips, soft feminine features, standing front view, three-quarter body shot, studio lighting with soft shadows, clean white background, realistic skin texture, photorealistic, 8k, masterpiece, best quality skinny, athletic, muscular, small breasts, flat chest, narrow hips, deformed, ugly, extra limbs, bad anatomy, low quality, cartoon, anime, plastic skin, fake breasts, overexposed, black and white, breathtaking pencil illustration, highly detailed, 4k, textured paper, pencil texture, sketch',
     styleCategory: 'pencil-drawing',
     styleCategoryLabel: 'Pencil Drawing',
     badgeClass: 'badge-pencil-drawing',
@@ -132,7 +132,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-005',
-    text: 'black and white pencil drawing, Eine extrem detaillierte, fotorealistische oder hochrealistische digitale Illustration einer erwachsenen, üppigen BBW-Frau in voller Frontalansicht, komplet[...]
+    text: 'black and white pencil drawing, Eine extrem detaillierte, fotorealistische oder hochrealistische digitale Illustration einer erwachsenen, üppigen BBW-Frau in voller Frontalansicht, komplett nackt. Sie steht selbstbewusst und leicht provozierend, die Beine leicht gespreizt, die Arme locker an den Seiten. Ihre Brüste sind schwer und prall – groß, lang und oval, sie hängen schlaff und leer durch ihr Gewicht tief herab, haben aber von ihrer Natürlichkeit und Echtheit nichts verloren, mit tiefen Unterbrustfalten, großen dunklen Areolen und steifen, hervortretenden Nippeln. Der Bauch ist weich, rund und ausladend, mit mehreren tiefen Fettfalten und einem deutlich erkennbaren Nabel. Die Hüften sind breit und fleischig, die Oberschenkel dick und weich, sie pressen leicht aneinander. Zwischen den Beinen ist die glatte, volle Scham sichtbar, mit leichtem Schattenwurf. Langes, welliges, dunkelbraunes bis schwarzes Haar fällt über ihre Schultern und rahmt die schweren Brüste ein. Ihr Gesicht ist attraktiv und ausdrucksstark: intensive grüne Augen, die den Betrachter direkt und fordernd anblicken, volle, leicht geöffnete Lippen, ein selbstbewusster, leicht lasziver Ausdruck. Die Haut ist glatt, leicht glänzend und zeigt realistische Weichheit, Falten und Gewicht. Hochdetaillierte Schattierung, die jedes Volumen, jede Kurve und jede weiche Falte betont. Reiner weißer oder neutraler Hintergrund. Sehr explizit, erotisch und körperbetont, starke Betonung von Größe, Weichheit und sinnlicher Präsenz., black and white, breathtaking pencil illustration, highly detailed, 4k, textured paper, pencil texture, sketch',
     styleCategory: 'pencil-drawing',
     styleCategoryLabel: 'Pencil Drawing',
     badgeClass: 'badge-pencil-drawing',
@@ -142,7 +142,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-006',
-    text: 'black and white pencil drawing, Nude chubby buxom mid 50 female in Studio environment Body portrait, black and white, breathtaking pencil illustration, highly detailed, 4k, textured paper, [...]
+    text: 'black and white pencil drawing, Nude chubby buxom mid 50 female in Studio environment Body portrait, black and white, breathtaking pencil illustration, highly detailed, 4k, textured paper, pencil texture, sketch',
     styleCategory: 'pencil-drawing',
     styleCategoryLabel: 'Pencil Drawing',
     badgeClass: 'badge-pencil-drawing',
@@ -151,10 +151,10 @@ export const ALL_PROMPTS: Prompt[] = [
     tags: ['pencil', 'studio', 'portrait', 'mid-50', 'black-white'],
   },
 
-  // ── CINEMATIC ──��────────────────────────────────────────────────────────
+  // ── CINEMATIC ───────────────────────────────────────────────────────────
   {
     id: 'prompt-007',
-    text: 'Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy, Shaggy, flat breasts, camera rising from the ground to the sky, legs spreading wide in the air, s[...]
+    text: 'Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy, Shaggy, flat breasts, camera rising from the ground to the sky, legs spreading wide in the air, showing her shaved big cunt, Focus Zoom in on cunt. , cinematic shot, dynamic lighting, 75mm, Technicolor, Panavision, cinemascope, sharp focus, fine details, 8k, HDR, realism, realistic, key visual, film still, cinematic color grading, depth of field. Overall, it\'s an absolute world-class masterpiece. It\'s an aesthetically pleasing image with impeccable attention to detail and impressive composition.',
     styleCategory: 'cinematic',
     styleCategoryLabel: 'Cinematic',
     badgeClass: 'badge-cinematic',
@@ -164,7 +164,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-008',
-    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved [...]
+    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved big cunt, Focus Zoom in on cunt, cinematic shot, dynamic lighting, 75mm, Technicolor, Panavision, cinemascope, sharp focus, fine details, 8k, HDR, realism, realistic, key visual, film still, cinematic color grading, depth of field. Overall, it\'s an absolute world-class cinematic masterpiece. It\'s an aesthetically pleasing cinematic shot with impeccable attention to detail and impressive composition.',
     styleCategory: 'cinematic',
     styleCategoryLabel: 'Cinematic',
     badgeClass: 'badge-cinematic',
@@ -174,7 +174,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-009',
-    text: 'Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, cinematic shot, dynamic lighting, 75mm, Technicolo[...]
+    text: 'Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, cinematic shot, dynamic lighting, 75mm, Technicolor, Panavision, cinemascope, sharp focus, fine details, 8k, HDR, realism, realistic, key visual, film still, cinematic color grading, depth of field. Overall, it\'s an absolute world-class cinematic masterpiece. It\'s an aesthetically pleasing cinematic shot with impeccable attention to detail and impressive composition.',
     styleCategory: 'cinematic',
     styleCategoryLabel: 'Cinematic',
     badgeClass: 'badge-cinematic',
@@ -184,7 +184,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-010',
-    text: 'Nude female 30, big Long hanging empty saggy breasts, cinematic shot, dynamic lighting, 75mm, Technicolor, Panavision, cinemascope, sharp focus, fine details, 8k, HDR, realism, realistic, k[...]
+    text: 'Nude female 30, big Long hanging empty saggy breasts, cinematic shot, dynamic lighting, 75mm, Technicolor, Panavision, cinemascope, sharp focus, fine details, 8k, HDR, realism, realistic, key visual, film still, cinematic color grading, depth of field. Overall, it\'s an absolute world-class cinematic masterpiece. It\'s an aesthetically pleasing cinematic shot with impeccable attention to detail and impressive composition.',
     styleCategory: 'cinematic',
     styleCategoryLabel: 'Cinematic',
     badgeClass: 'badge-cinematic',
@@ -194,7 +194,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-011',
-    text: 'Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide in the air, showing her sha[...]
+    text: 'Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide in the air, showing her shaved big cunt, Focus Zoom in on cunt. , soft focus, depth of field, 8k photo, HDR, professional lighting, taken with Canon EOS R5, DSLR, 75mm lens',
     styleCategory: 'cinematic',
     styleCategoryLabel: 'Cinematic',
     badgeClass: 'badge-cinematic',
@@ -206,7 +206,7 @@ export const ALL_PROMPTS: Prompt[] = [
   // ── OIL PAINTING ────────────────────────────────────────────────────────
   {
     id: 'prompt-012',
-    text: 'breathtaking alla prima oil painting, Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, le[...]
+    text: 'breathtaking alla prima oil painting, Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide in the air, showing her shaved big cunt, Focus Zoom in on cunt. , close up, alla prima style, oil on linen, painterly oil on canvas, painterly style, exquisite composition and lighting, modern painterly masterpiece, in the style of Alexi Zaitsev, award-winning painterly alla prima oil painting. Overall, it\'s an absolute world-class masterpiece oil painting. It\'s an aesthetically pleasing oil painting with impeccable attention to detail and impressive composition.',
     styleCategory: 'oil-painting',
     styleCategoryLabel: 'Oil Painting',
     badgeClass: 'badge-oil-painting',
@@ -216,7 +216,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-013',
-    text: 'breathtaking alla prima oil painting, A highly detailed portrait of a beautiful voluptuous woman in her mid-20s, extremely curvy soft BBW body, massive heavy natural breasts with large areo[...]
+    text: 'breathtaking alla prima oil painting, A highly detailed portrait of a beautiful voluptuous woman in her mid-20s, extremely curvy soft BBW body, massive heavy natural breasts with large areolas and prominent nipples, soft rounded belly with natural pooch, wide full hips, thick thighs, pale smooth skin, shoulder-length wavy dark brown hair, symmetrical attractive face with big expressive light hazel eyes, full lips, soft feminine features, standing front view, three-quarter body shot, studio lighting with soft shadows, clean white background, realistic skin texture, photorealistic, 8k, masterpiece, best quality skinny, athletic, muscular, small breasts, flat chest, narrow hips, deformed, ugly, extra limbs, bad anatomy, low quality, cartoon, anime, plastic skin, fake breasts, overexposed, close up, alla prima style, oil on linen, painterly oil on canvas, painterly style, exquisite composition and lighting, modern painterly masterpiece, in the style of Alexi Zaitsev, award-winning painterly alla prima oil painting. Overall, it\'s an absolute world-class masterpiece oil painting. It\'s an aesthetically pleasing oil painting with impeccable attention to detail and impressive composition.',
     styleCategory: 'oil-painting',
     styleCategoryLabel: 'Oil Painting',
     badgeClass: 'badge-oil-painting',
@@ -226,7 +226,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-014',
-    text: 'breathtaking oil painting, Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide [...]
+    text: 'breathtaking oil painting, Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide in the air, showing her shaved big cunt, Focus Zoom in on cunt. , photorealistic oil painting, in the style of charlie bowater, fine details, in the style of wlop, trending on artstation, very detailed. Overall, it\'s an absolute world-class masterpiece realism oil painting. It\'s an aesthetically pleasing realism oil painting with impeccable attention to detail and impressive composition.',
     styleCategory: 'oil-painting',
     styleCategoryLabel: 'Oil Painting',
     badgeClass: 'badge-oil-painting',
@@ -236,7 +236,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-015',
-    text: 'breathtaking oil painting, Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, extreme close-up, low-a[...]
+    text: 'breathtaking oil painting, Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, extreme close-up, low-angle shot, vibrant color grading, silhouette, photorealistic oil painting, in the style of charlie bowater, fine details, in the style of wlop, trending on artstation, very detailed. Overall, it\'s an absolute world-class masterpiece realism oil painting. It\'s an aesthetically pleasing realism oil painting with impeccable attention to detail and impressive composition.',
     styleCategory: 'oil-painting',
     styleCategoryLabel: 'Oil Painting',
     badgeClass: 'badge-oil-painting',
@@ -246,7 +246,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-016',
-    text: 'breathtaking alla prima oil painting, Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, extreme clos[...]
+    text: 'breathtaking alla prima oil painting, Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, extreme close-up, low-angle shot, vibrant color grading, silhouette, close up, alla prima style, oil on linen, painterly oil on canvas, painterly style, exquisite composition and lighting, modern painterly masterpiece, in the style of Alexi Zaitsev, award-winning painterly alla prima oil painting. Overall, it\'s an absolute world-class masterpiece oil painting. It\'s an aesthetically pleasing oil painting with impeccable attention to detail and impressive composition.',
     styleCategory: 'oil-painting',
     styleCategoryLabel: 'Oil Painting',
     badgeClass: 'badge-oil-painting',
@@ -258,7 +258,7 @@ export const ALL_PROMPTS: Prompt[] = [
   // ── WATERCOLOR ──────────────────────────────────────────────────────────
   {
     id: 'prompt-017',
-    text: 'Nude chubby buxom mid 50 female in Studio Environment Body portrait, (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper. Overall, it\[...]
+    text: 'Nude chubby buxom mid 50 female in Studio Environment Body portrait, (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper. Overall, it\'s an absolute world-class masterpiece watercolor artwork. It\'s an aesthetically pleasing watercolor artwork with impeccable attention to detail and impressive composition.',
     styleCategory: 'watercolor',
     styleCategoryLabel: 'Watercolor',
     badgeClass: 'badge-watercolor',
@@ -268,7 +268,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-018',
-    text: 'A highly detailed portrait of a beautiful voluptuous woman in her mid-20s, extremely curvy soft BBW body, massive heavy natural breasts with large areolas and prominent nipples, soft rounde[...]
+    text: 'A highly detailed portrait of a beautiful voluptuous woman in her mid-20s, extremely curvy soft BBW body, massive heavy natural breasts with large areolas and prominent nipples, soft rounded belly with natural pooch, wide full hips, thick thighs, pale smooth skin, shoulder-length wavy dark brown hair, symmetrical attractive face with big expressive light hazel eyes, full lips, soft feminine features, standing front view, three-quarter body shot, studio lighting with soft shadows, clean white background, realistic skin texture, photorealistic, 8k, masterpiece, best quality skinny, athletic, muscular, small breasts, flat chest, narrow hips, deformed, ugly, extra limbs, bad anatomy, low quality, cartoon, anime, plastic skin, fake breasts, overexposed, (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper. Overall, it\'s an absolute world-class masterpiece watercolor artwork. It\'s an aesthetically pleasing watercolor artwork with impeccable attention to detail and impressive composition.',
     styleCategory: 'watercolor',
     styleCategoryLabel: 'Watercolor',
     badgeClass: 'badge-watercolor',
@@ -278,7 +278,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-019',
-    text: 'Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy, Shaggy, flat breasts, camera rising from the ground to the sky, legs spreading wide in the air, s[...]
+    text: 'Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy, Shaggy, flat breasts, camera rising from the ground to the sky, legs spreading wide in the air, showing her shaved big cunt, Focus Zoom in on cunt. , (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper. Overall, it\'s an absolute world-class masterpiece watercolor artwork. It\'s an aesthetically pleasing watercolor artwork with impeccable attention to detail and impressive composition.',
     styleCategory: 'watercolor',
     styleCategoryLabel: 'Watercolor',
     badgeClass: 'badge-watercolor',
@@ -288,7 +288,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-020',
-    text: 'Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien eine Cat-Pose ausführt. Schlüsselwörter [...]
+    text: 'Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien eine Cat-Pose ausführt. Schlüsselwörter für den Stil: Fotorealistisch, Studio detailliert, hohe Auflösung, crayon drawing',
     styleCategory: 'watercolor',
     styleCategoryLabel: 'Watercolor',
     badgeClass: 'badge-watercolor',
@@ -298,7 +298,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-021',
-    text: 'Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien eine Cow-Pose (when combined with the saggi[...]
+    text: 'Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien eine Cow-Pose (when combined with the sagging back/cow position) ausführt. Schlüsselwörter für den Stil: Fotorealistisch, Studio detailliert, hohe Auflösung, crayon drawing',
     styleCategory: 'watercolor',
     styleCategoryLabel: 'Watercolor',
     badgeClass: 'badge-watercolor',
@@ -310,7 +310,7 @@ export const ALL_PROMPTS: Prompt[] = [
   // ── DIGITAL ART ─────────────────────────────────────────────────────────
   {
     id: 'prompt-022',
-    text: 'painterly digital painting, Nude female 30, big Long hanging empty saggy breasts, digital painting in the style of Ilya Kuvshinov with painterly brush strokes, in the style of Ilya Kuvshino[...]
+    text: 'painterly digital painting, Nude female 30, big Long hanging empty saggy breasts, digital painting in the style of Ilya Kuvshinov with painterly brush strokes, in the style of Ilya Kuvshinov, world-class painterly masterpiece. Overall, it\'s an absolute world-class masterpiece painterly digital painting. It\'s an aesthetically pleasing painterly digital painting with impeccable attention to detail and impressive composition.',
     styleCategory: 'digital-art',
     styleCategoryLabel: 'Digital Art',
     badgeClass: 'badge-digital-art',
@@ -320,7 +320,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-023',
-    text: 'Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile, d&d, fantasy, highly detailed, digital painting, artstation, sharp focus, fantasy art, character art, i[...]
+    text: 'Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile, d&d, fantasy, highly detailed, digital painting, artstation, sharp focus, fantasy art, character art, illustration, 8k, art in the style of artgerm and greg rutkowski. It\'s an absolute world-class masterpiece artwork. It\'s an aesthetically pleasing artwork with impeccable attention to detail and impressive composition.',
     styleCategory: 'digital-art',
     styleCategoryLabel: 'Digital Art',
     badgeClass: 'badge-digital-art',
@@ -330,7 +330,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-024',
-    text: 'painterly digital painting, Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, extreme close-up, low-[...]
+    text: 'painterly digital painting, Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, extreme close-up, low-angle shot, vibrant color grading, silhouette, digital painting in the style of Ilya Kuvshinov with painterly brush strokes, in the style of Ilya Kuvshinov, world-class painterly masterpiece. Overall, it\'s an absolute world-class masterpiece painterly digital painting. It\'s an aesthetically pleasing painterly digital painting with impeccable attention to detail and impressive composition.',
     styleCategory: 'digital-art',
     styleCategoryLabel: 'Digital Art',
     badgeClass: 'badge-digital-art',
@@ -340,7 +340,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-025',
-    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved [...]
+    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved big cunt, Focus Zoom in on cunt, breathtaking digital art, trending on artstation, in the style of atey ghailan, in the style of greg rutkowski, in the style of greg tocchini, in the style of james gilleard, 8k, high resolution, best quality. Overall, it\'s an absolute world-class masterpiece digital painting. It\'s an aesthetically pleasing digital painting with impeccable attention to detail and impressive composition.',
     styleCategory: 'digital-art',
     styleCategoryLabel: 'Digital Art',
     badgeClass: 'badge-digital-art',
@@ -350,7 +350,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-026',
-    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved [...]
+    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved big cunt, Focus Zoom in on cunt, painterly digital painting, digital painting in the style of Ilya Kuvshinov with painterly brush strokes, in the style of Ilya Kuvshinov, world-class painterly masterpiece. Overall, it\'s an absolute world-class masterpiece painterly digital painting. It\'s an aesthetically pleasing painterly digital painting with impeccable attention to detail and impressive composition.',
     styleCategory: 'digital-art',
     styleCategoryLabel: 'Digital Art',
     badgeClass: 'badge-digital-art',
@@ -362,7 +362,7 @@ export const ALL_PROMPTS: Prompt[] = [
   // ── VINTAGE PHOTO ───────────────────────────────────────────────────────
   {
     id: 'prompt-027',
-    text: 'famous vintage 50s photo, Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy, Shaggy, flat breasts, camera rising from the ground to the sky, legs sp[...]
+    text: 'famous vintage 50s photo, Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy, Shaggy, flat breasts, camera rising from the ground to the sky, legs spreading wide in the air, showing her shaved big cunt, Focus Zoom in on cunt. , grainy photograph, 1950s photo with film grain, 1950s photo with vignetting, retro, r/OldSchoolCool, 1950s photo, vintage photo',
     styleCategory: 'vintage-photo',
     styleCategoryLabel: 'Vintage Photo',
     badgeClass: 'badge-vintage-photo',
@@ -372,7 +372,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-028',
-    text: 'Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy, Shaggy, flat breasts, camera rising from the ground to the sky, legs spreading wide in the air, s[...]
+    text: 'Nude buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy, Shaggy, flat breasts, camera rising from the ground to the sky, legs spreading wide in the air, showing her shaved big cunt, Focus Zoom in on cunt. , 90s home video, nostalgic 90s photo, taken with kodak disposable camera',
     styleCategory: 'vintage-photo',
     styleCategoryLabel: 'Vintage Photo',
     badgeClass: 'badge-vintage-photo',
@@ -382,7 +382,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-029',
-    text: 'A casual real-life photograph. A casual photo of Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to [...]
+    text: 'A casual real-life photograph. A casual photo of Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved big cunt, Focus Zoom in on cunt. It\'s a casual photo. Overall it\'s an actual real-life photograph.',
     styleCategory: 'vintage-photo',
     styleCategoryLabel: 'Vintage Photo',
     badgeClass: 'badge-vintage-photo',
@@ -392,7 +392,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-030',
-    text: 'Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien eine Cat-Pose ausführt. Schlüsselwörter [...]
+    text: 'Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien eine Cat-Pose ausführt. Schlüsselwörter für den Stil: Fotorealistisch, Studio detailliert, hohe Auflösung, crayon drawing',
     styleCategory: 'vintage-photo',
     styleCategoryLabel: 'Vintage Photo',
     badgeClass: 'badge-vintage-photo',
@@ -402,7 +402,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-031',
-    text: 'Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien auf Händen und Füßen mit Katzenbuckel Sc[...]
+    text: 'Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien auf Händen und Füßen mit Katzenbuckel Schlüsselwörter für den Stil: Fotorealistisch, Studio detailliert, hohe Auflösung, crayon drawing',
     styleCategory: 'vintage-photo',
     styleCategoryLabel: 'Vintage Photo',
     badgeClass: 'badge-vintage-photo',
@@ -411,10 +411,10 @@ export const ALL_PROMPTS: Prompt[] = [
     tags: ['photo', 'cat-arch', 'outdoor', 'bbw', 'nude'],
   },
 
-  // ── SKETCH ────────────────────────────────────────────────────────────
+  // ── SKETCH ──────────────────────────────────────────────────────────────
   {
     id: 'prompt-032',
-    text: 'black and white pencil drawing, Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera Zoom 45 deepest angle take, legs spreading [...]
+    text: 'black and white pencil drawing, Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera Zoom 45 deepest angle take, legs spreading wide, showing her shaved big cunt, black and white, breathtaking pencil illustration, highly detailed, 4k, textured paper, pencil texture, sketch',
     styleCategory: 'sketch',
     styleCategoryLabel: 'Sketch',
     badgeClass: 'badge-sketch',
@@ -424,7 +424,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-033',
-    text: 'black and white technical drawing showcasing a Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to th[...]
+    text: 'black and white technical drawing showcasing a Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide in the air, showing her shaved big cunt, Focus Zoom in on cunt. , annotation details, world-class masterpiece black and white, pencil strokes, annotated technical concept art sketch, pencil texture. Overall, it\'s a charmingly aesthetic and well-composed concept sketch.',
     styleCategory: 'sketch',
     styleCategoryLabel: 'Sketch',
     badgeClass: 'badge-sketch',
@@ -434,7 +434,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-034',
-    text: 'Glen Keane character concept art black and white pencil sketch of Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising fr[...]
+    text: 'Glen Keane character concept art black and white pencil sketch of Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved big cunt, Focus Zoom in on cunt. rough pencil sketch in the style of Glen Keane, rough pencil sketch, close up, loose Disney-style character concept art sketch, nice sketchy pencil strokes, Disney character design sketch, pencil texture, a concept art pencil sketch of Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved big cunt, Focus Zoom in on cunt, in the style of Glen Keane. Overall, it\'s a charmingly aesthetic and well-composed Disney-style sketch.',
     styleCategory: 'sketch',
     styleCategoryLabel: 'Sketch',
     badgeClass: 'badge-sketch',
@@ -444,7 +444,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-035',
-    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved [...]
+    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved big cunt, Focus Zoom in on cunt Style charcoal drawing',
     styleCategory: 'sketch',
     styleCategoryLabel: 'Sketch',
     badgeClass: 'badge-sketch',
@@ -454,7 +454,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-036',
-    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved [...]
+    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved big cunt, Focus Zoom in on cunt Style India ink drawing / Pen-and-ink drawing',
     styleCategory: 'sketch',
     styleCategoryLabel: 'Sketch',
     badgeClass: 'badge-sketch',
@@ -464,7 +464,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-037',
-    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved [...]
+    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved big cunt, Focus Zoom in on cunt Style ink drawing',
     styleCategory: 'sketch',
     styleCategoryLabel: 'Sketch',
     badgeClass: 'badge-sketch',
@@ -476,7 +476,7 @@ export const ALL_PROMPTS: Prompt[] = [
   // ── CONCEPT ART ─────────────────────────────────────────────────────────
   {
     id: 'prompt-038',
-    text: 'Nude chubby buxom mid 50 female in Studio Environment Body portrait, app logo icon, digital art pictogram icon, trending on artstation, app icon in the style of atey ghailan, app icon in th[...]
+    text: 'Nude chubby buxom mid 50 female in Studio Environment Body portrait, app logo icon, digital art pictogram icon, trending on artstation, app icon in the style of atey ghailan, app icon in the style of greg rutkowski, app icon in the style of greg tocchini, app icon in the style of james gilleard, 8k, high resolution, best quality',
     styleCategory: 'concept-art',
     styleCategoryLabel: 'Concept Art',
     badgeClass: 'badge-concept-art',
@@ -486,7 +486,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-039',
-    text: 'Nude chubby buxom mid 50 female in Studio Environment Body portrait, a concept art icon, a digital art logo, illustration, league of legends style concept art logo icon, inspired by wlop st[...]
+    text: 'Nude chubby buxom mid 50 female in Studio Environment Body portrait, a concept art icon, a digital art logo, illustration, league of legends style concept art logo icon, inspired by wlop style, 8k, fine details, sharp, very detailed, high resolution logo icon',
     styleCategory: 'concept-art',
     styleCategoryLabel: 'Concept Art',
     badgeClass: 'badge-concept-art',
@@ -496,7 +496,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-040',
-    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved [...]
+    text: 'Nude chubby buxom mid 50 female at a small river, sitting on a polished big rock, big large puffy breasts, camera rising from the ground to the sky, legs spreading wide, showing her shaved big cunt, Focus Zoom in on cunt, concept art, digital art, illustration, inspired by wlop style, 8k, fine details, sharp, very detailed, high resolution, world-class masterpiece. Overall, it\'s absolute world-class masterpiece concept art. It\'s an aesthetically pleasing concept art with impeccable attention to detail and impressive composition.',
     styleCategory: 'concept-art',
     styleCategoryLabel: 'Concept Art',
     badgeClass: 'badge-concept-art',
@@ -506,7 +506,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-041',
-    text: 'medieval illuminated manuscript picture of Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, extreme[...]
+    text: 'medieval illuminated manuscript picture of Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, extreme close-up, low-angle shot, vibrant color grading, silhouette, medieval illuminated manuscript art, masterpiece medieval color illustration, 16th century, 8k high-resolution scan of 16th century illuminated manuscript painting, detailed medieval masterpiece.',
     styleCategory: 'concept-art',
     styleCategoryLabel: 'Concept Art',
     badgeClass: 'badge-concept-art',
@@ -516,7 +516,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-042',
-    text: 'black and white pencil drawing, Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, extreme close-up, [...]
+    text: 'black and white pencil drawing, Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile. Negative prompt: anatomy fault, No extra Body parts, extreme close-up, low-angle shot, vibrant color grading, silhouette, black and white, breathtaking pencil illustration, highly detailed, 4k, textured paper, pencil texture, sketch',
     styleCategory: 'concept-art',
     styleCategoryLabel: 'Concept Art',
     badgeClass: 'badge-concept-art',
@@ -525,10 +525,10 @@ export const ALL_PROMPTS: Prompt[] = [
     tags: ['concept', 'pencil', 'profile', 'saggy', 'black-white'],
   },
 
-  // ── ANIME ────────────────────────────────────────────────────────────
+  // ── ANIME ───────────────────────────────────────────────────────────────
   {
     id: 'prompt-043',
-    text: 'anime art of Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile, world-class masterpiece, 4k, best quality, anime art. Overall, it\'s an absolute world-cla[...]
+    text: 'anime art of Nude female 40, normal Belly, big Long hanging empty saggy breasts, portrait profile, world-class masterpiece, 4k, best quality, anime art. Overall, it\'s an absolute world-class masterpiece anime-inspired artwork. It\'s an aesthetically pleasing anime art with impeccable attention to detail and impressive composition.',
     styleCategory: 'anime',
     styleCategoryLabel: 'Anime',
     badgeClass: 'badge-anime',
@@ -538,7 +538,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-044',
-    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer 70 Jahre alten, erwachsenen, üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewu[...]
+    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer 70 Jahre alten, erwachsenen, üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewusst und leicht provozierend, die Beine leicht gespreizt, die Arme locker an den Seiten. Ihre Brüste sind schwer und prall – groß, lang und oval, sie hängen schlaff und leer durch ihr Gewicht tief herab, haben aber von ihrer Natürlichkeit und Echtheit nichts verloren, mit tiefen Unterbrustfalten, großen dunklen Areolen und steifen, hervortretenden Nippeln. Der Bauch ist weich, rund und ausladend, mit mehreren tiefen Fettfalten und einem deutlich erkennbaren Nabel. Die Hüften sind breit und fleischig, die Oberschenkel dick und weich, sie pressen leicht aneinander. Zwischen den Beinen ist die glatte, volle Scham sichtbar, mit leichtem Schattenwurf. Langes, welliges, dunkelbraunes bis schwarzes Haar fällt über ihre Schultern und rahmt die schweren Brüste ein. Ihr Gesicht ist dem Alter entsprechend, aber doch nett, ein selbstbewusster, leicht lasziver Ausdruck. Die Haut ist glatt, leicht glänzend und zeigt realistische Weichheit, Falten und Gewicht. Hochdetaillierte Schattierung, die jedes Volumen, jede Kurve und jede weiche Falte betont. Reiner weißer oder neutraler Hintergrund. Sehr explizit, erotisch und körperbetont, starke Betonung von Größe, Weichheit und sinnlicher Präsenz. (Du kannst diesen Prompt direkt in einen Bildgenerator kopieren und bei Bedarf Stil-Zusätze wie „photorealistic“, „oil painting“, „detailed shading“ oder „cinematic lighting“ hinzufügen.), crayon drawing',
     styleCategory: 'anime',
     styleCategoryLabel: 'Anime',
     badgeClass: 'badge-anime',
@@ -548,7 +548,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-045',
-    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer erwachsenen, 86-jährigen üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewusst[...]
+    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer erwachsenen, 86-jährigen üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewusst und leicht provozierend, die Beine leicht gespreizt, die Arme locker an den Seiten. Ihre Brüste sind schwer und prall – groß, lang und oval, sie hängen schlaff und leer durch ihr Gewicht tief herab, haben aber von ihrer Natürlichkeit und Echtheit nichts verloren, mit tiefen Unterbrustfalten, großen dunklen Areolen und steifen, hervortretenden Nippeln. Der Bauch ist weich, rund und ausladend, mit mehreren tiefen Fettfalten und einem deutlich erkennbaren Nabel. Die Hüften sind breit und fleischig, die Oberschenkel dick und weich, sie pressen leicht aneinander. Zwischen den Beinen ist die glatte, volle Scham sichtbar, mit leichtem Schattenwurf. Langes, welliges, dunkelbraunes bis schwarzes Haar fällt über ihre Schultern und rahmt die schweren Brüste ein. Ihr Gesicht ist attraktiv und ausdrucksstark: intensive grüne Augen, die den Betrachter direkt und fordernd anblicken, volle, leicht geöffnete Lippen, ein selbstbewusster, leicht lasziver Ausdruck. Die Haut ist glatt, leicht glänzend und zeigt realistische Weichheit, Falten und Gewicht. Hochdetaillierte Schattierung, die jedes Volumen, jede Kurve und jede weiche Falte betont. Reiner weißer oder neutraler Hintergrund. Sehr explizit, erotisch und körperbetont, starke Betonung von Größe, Weichheit und sinnlicher Präsenz. (Du kannst diesen Prompt direkt in einen Bildgenerator kopieren und bei Bedarf Stil-Zusätze wie „photorealistic“, „oil painting“, „detailed shading“ oder „cinematic lighting“ hinzufügen.), crayon drawing',
     styleCategory: 'anime',
     styleCategoryLabel: 'Anime',
     badgeClass: 'badge-anime',
@@ -558,7 +558,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-046',
-    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer erwachsenen, elderly üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewusst und [...]
+    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer erwachsenen, elderly üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewusst und leicht provozierend, die Beine leicht gespreizt, die Arme locker an den Seiten. Ihre Brüste sind schwer und prall – groß, lang und oval, sie hängen schlaff und leer durch ihr Gewicht tief herab, haben aber von ihrer Natürlichkeit und Echtheit nichts verloren, mit tiefen Unterbrustfalten, großen dunklen Areolen und steifen, hervortretenden Nippeln. Der Bauch ist weich, rund und ausladend, mit mehreren tiefen Fettfalten und einem deutlich erkennbaren Nabel. Die Hüften sind breit und fleischig, die Oberschenkel dick und weich, sie pressen leicht aneinander. Zwischen den Beinen ist die glatte, volle Scham sichtbar, mit leichtem Schattenwurf. Langes, welliges, dunkelbraunes bis schwarzes Haar fällt über ihre Schultern und rahmt die schweren Brüste ein. Ihr Gesicht ist attraktiv und ausdrucksstark: intensive grüne Augen, die den Betrachter direkt und fordernd anblicken, volle, leicht geöffnete Lippen, ein selbstbewusster, leicht lasziver Ausdruck. Die Haut ist glatt, leicht glänzend und zeigt realistische Weichheit, Falten und Gewicht. Hochdetaillierte Schattierung, die jedes Volumen, jede Kurve und jede weiche Falte betont. Reiner weißer oder neutraler Hintergrund. Sehr explizit, erotisch und körperbetont, starke Betonung von Größe, Weichheit und sinnlicher Präsenz. (Du kannst diesen Prompt direkt in einen Bildgenerator kopieren und bei Bedarf Stil-Zusätze wie „photorealistic“, „oil painting“, „detailed shading“ oder „cinematic lighting“ hinzufügen.), crayon drawing',
     styleCategory: 'anime',
     styleCategoryLabel: 'Anime',
     badgeClass: 'badge-anime',
@@ -568,7 +568,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-047',
-    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer alten, erwachsenen, üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewusst und l[...]
+    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer alten, erwachsenen, üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewusst und leicht provozierend, die Beine leicht gespreizt, die Arme locker an den Seiten. Ihre Brüste sind schwer und prall – groß, lang und oval, sie hängen schlaff und leer durch ihr Gewicht tief herab, haben aber von ihrer Natürlichkeit und Echtheit nichts verloren, mit tiefen Unterbrustfalten, großen dunklen Areolen und steifen, hervortretenden Nippeln. Der Bauch ist weich, rund und ausladend, mit mehreren tiefen Fettfalten und einem deutlich erkennbaren Nabel. Die Hüften sind breit und fleischig, die Oberschenkel dick und weich, sie pressen leicht aneinander. Zwischen den Beinen ist die glatte, volle Scham sichtbar, mit leichtem Schattenwurf. Langes, welliges, dunkelbraunes bis schwarzes Haar fällt über ihre Schultern und rahmt die schweren Brüste ein. Ihr Gesicht ist attraktiv und ausdrucksstark: intensive grüne Augen, die den Betrachter direkt und fordernd anblicken, volle, leicht geöffnete Lippen, ein selbstbewusster, leicht lasziver Ausdruck. Die Haut ist glatt, leicht glänzend und zeigt realistische Weichheit, Falten und Gewicht. Hochdetaillierte Schattierung, die jedes Volumen, jede Kurve und jede weiche Falte betont. Reiner weißer oder neutraler Hintergrund. Sehr explizit, erotisch und körperbetont, starke Betonung von Größe, Weichheit und sinnlicher Präsenz. (Du kannst diesen Prompt direkt in einen Bildgenerator kopieren und bei Bedarf Stil-Zusätze wie „photorealistic“, „oil painting“, „detailed shading“ oder „cinematic lighting“ hinzufügen.), crayon drawing',
     styleCategory: 'anime',
     styleCategoryLabel: 'Anime',
     badgeClass: 'badge-anime',
@@ -580,7 +580,7 @@ export const ALL_PROMPTS: Prompt[] = [
   // ── NEON / CYBERPUNK (remaining detailed prompts) ───────────────────────
   {
     id: 'prompt-048',
-    text: 'black and white pencil drawing, Detaillierte, explizite Bildbeschreibung (als Prompt-Vorlage): Eine extrem korpulente, vollschlanke Frau Mitte 30 mit voluminösem, weichem Körper, steht fr[...]
+    text: 'black and white pencil drawing, Detaillierte, explizite Bildbeschreibung (als Prompt-Vorlage): Eine extrem korpulente, vollschlanke Frau Mitte 30 mit voluminösem, weichem Körper, steht frontal und selbstbewusst vor einem tiefschwarzen, nahtlosen Studiohintergrund. Sie hat langes, dichtes, glänzend schwarzes Haar in lockigen Wellen, die über ihre rechte Schulter und einen Teil der Brust fallen. Ihr Gesicht ist rundlich und voll, mit blasser, makelloser Haut, kräftigen dunklen Augenbrauen, großen grün-braunen Augen, die den Betrachter direkt und selbstbewusst anblicken, vollen, leicht geöffneten Lippen und einem ruhigen, fast herausfordernden Ausdruck. Ihr Oberkörper ist massiv: riesige, schwere, hängende Brüste von enormer Größe (weit über Körbchengröße G/H), die tief herabhängen und sich stark nach außen und unten wölben. Die Brüste sind extrem weich und voluminös, mit deutlichen Falten und Wölbungen an der Unterseite, großen, dunklen, runden Areolen und sichtbaren, leicht erhabenen Brustwarzen. Zwischen den Brüsten verläuft eine tiefe, weiche Furche. Der Bauch ist extrem ausgeprägt, rund und vorgewölbt, mit mehreren übereinanderliegenden weichen Fettschichten und Falten, die über dem Schambereich hängen. Die Taille ist kaum erkennbar, der gesamte Rumpf wirkt massig und rund. Die Hüften und Oberschenkel sind extrem breit und fleischig, mit dicken, weichen Fettschichten, die an den Seiten und Oberschenkeln herabhängen. Die Schamgegend ist teilweise sichtbar, mit dichter, dunkler Schambehaarung. Die Arme sind dick und voll, die Hände ruhen entspannt an den Hüften/Oberschenkeln, die Finger leicht gespreizt. Die Haut ist blass-rosig, mit realistischen Details wie feinen Hautporen, leichten Dehnungsstreifen, subtilen Hautfältchen und realistischer Beleuchtung, die die Volumen und Weichheit des Körpers betont (weiches, gerichtetes Studioloicht von vorne oben, starke Schatten an den Körperkonturen und im Hintergrund). Pose: stehend, frontal, Schultern leicht zurückgenommen, Brustkorb vorgeschoben, Blick direkt in die Kamera, Hände an den Seiten der Hüften. Der gesamte Körper wirkt schwer, weich und extrem voluminös, mit starkem Fokus auf die massiven Brüste, den hängenden Bauch und die breiten Hüften. Fotorealistisch, hochdetailliert, dramatische Studiofotografie, dunkler Hintergrund, realistische Hauttexturen, keine Kleidung, vollständig nackt., black and white, breathtaking pencil illustration, highly detailed, 4k, textured paper, pencil texture, sketch',
     styleCategory: 'neon-cyberpunk',
     styleCategoryLabel: 'Neon / Cyberpunk',
     badgeClass: 'badge-neon-cyberpunk',
@@ -590,7 +590,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-049',
-    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer 70 Jahre alten, erwachsenen, üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewu[...]
+    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer 70 Jahre alten, erwachsenen, üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewusst und leicht provozierend, die Beine leicht gespreizt, die Arme locker an den Seiten. Ihre Brüste sind schwer und prall – groß, lang und oval, sie hängen schlaff und leer durch ihr Gewicht tief herab, haben aber von ihrer Natürlichkeit und Echtheit nichts verloren, mit tiefen Unterbrustfalten, großen dunklen Areolen und steifen, hervortretenden Nippeln. Der Bauch ist weich, rund und ausladend, mit mehreren tiefen Fettfalten und einem deutlich erkennbaren Nabel. Die Hüften sind breit und fleischig, die Oberschenkel dick und weich, sie pressen leicht aneinander. Zwischen den Beinen ist die glatte, volle Scham sichtbar, mit leichtem Schattenwurf. Langes, welliges, dunkelbraunes bis schwarzes Haar fällt über ihre Schultern und rahmt die schweren Brüste ein. Ihr Gesicht ist attraktiv und ausdrucksstark: intensive grüne Augen, die den Betrachter direkt und fordernd anblicken, volle, leicht geöffnete Lippen, ein selbstbewusster, leicht lasziver Ausdruck. Die Haut ist glatt, leicht glänzend und zeigt realistische Weichheit, Falten und Gewicht. Hochdetaillierte Schattierung, die jedes Volumen, jede Kurve und jede weiche Falte betont. Reiner weißer oder neutraler Hintergrund. Sehr explizit, erotisch und körperbetont, starke Betonung von Größe, Weichheit und sinnlicher Präsenz. (Du kannst diesen Prompt direkt in einen Bildgenerator kopieren und bei Bedarf Stil-Zusätze wie „photorealistic“, „oil painting“, „detailed shading“ oder „cinematic lighting“ hinzufügen.), crayon drawing',
     styleCategory: 'neon-cyberpunk',
     styleCategoryLabel: 'Neon / Cyberpunk',
     badgeClass: 'badge-neon-cyberpunk',
@@ -600,7 +600,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-050',
-    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer erwachsenen, 86-jährigen üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewusst[...]
+    text: 'Eine extrem detaillierte, fotorealistische Abbildung einer erwachsenen, 86-jährigen üppigen BBW-Frau in voller Profilansicht, komplett nackt. FOCUS AUF DIE NIPPEL. Sie steht selbstbewusst und leicht provozierend, die Beine leicht gespreizt, die Arme locker an den Seiten. Ihre Brüste sind schwer und prall – groß, lang und oval, sie hängen schlaff und leer durch ihr Gewicht tief herab, haben aber von ihrer Natürlichkeit und Echtheit nichts verloren, mit tiefen Unterbrustfalten, großen dunklen Areolen und steifen, hervortretenden Nippeln. Der Bauch ist weich, rund und ausladend, mit mehreren tiefen Fettfalten und einem deutlich erkennbaren Nabel. Die Hüften sind breit und fleischig, die Oberschenkel dick und weich, sie pressen leicht aneinander. Zwischen den Beinen ist die glatte, volle Scham sichtbar, mit leichtem Schattenwurf. Langes, welliges, dunkelbraunes bis schwarzes Haar fällt über ihre Schultern und rahmt die schweren Brüste ein. Ihr Gesicht ist attraktiv und ausdrucksstark: intensive grüne Augen, die den Betrachter direkt und fordernd anblicken, volle, leicht geöffnete Lippen, ein selbstbewusster, leicht lasziver Ausdruck. Die Haut ist glatt, leicht glänzend und zeigt realistische Weichheit, Falten und Gewicht. Hochdetaillierte Schattierung, die jedes Volumen, jede Kurve und jede weiche Falte betont. Reiner weißer oder neutraler Hintergrund. Sehr explizit, erotisch und körperbetont, starke Betonung von Größe, Weichheit und sinnlicher Präsenz. (Du kannst diesen Prompt direkt in einen Bildgenerator kopieren und bei Bedarf Stil-Zusätze wie „photorealistic“, „oil painting“, „detailed shading“ oder „cinematic lighting“ hinzufügen.), crayon drawing',
     styleCategory: 'neon-cyberpunk',
     styleCategoryLabel: 'Neon / Cyberpunk',
     badgeClass: 'badge-neon-cyberpunk',
@@ -620,7 +620,7 @@ export const ALL_PROMPTS: Prompt[] = [
   },
   {
     id: 'prompt-052',
-    text: 'Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien eine Cow-Pose ausführt. Schlüsselwörter [...]
+    text: 'Ein hochwertiges, professionelles Foto einer Frau, 50 Jahre, Chubby, buxom, breasts Cup J, Shaggy Long hanging breasts, fully nude, die im Freien eine Cow-Pose ausführt. Schlüsselwörter für den Stil: Fotorealistisch, Studio detailliert, hohe Auflösung, crayon drawing',
     styleCategory: 'neon-cyberpunk',
     styleCategoryLabel: 'Neon / Cyberpunk',
     badgeClass: 'badge-neon-cyberpunk',
@@ -629,5 +629,3 @@ export const ALL_PROMPTS: Prompt[] = [
     tags: ['crayon', 'cow-pose', 'outdoor', 'bbw', 'nude'],
   },
 ];
-
-
